@@ -3,6 +3,34 @@
 
 **系统环境** ：Ubuntu20.04 + Ros1-noetic
 
+**效果展示：**
+
+**PPM:**
+<div align="center">
+<table>
+<tr>
+<td>
+
+![](https://github.com/UCAS-IAMT/one_motor_canopen/blob/main/PPM.gif)  
+
+</td>
+</tr>
+</table>
+</div>
+
+**PVM:**
+<div align="center">
+<table>
+<tr>
+<td>
+
+![](https://github.com/UCAS-IAMT/one_motor_canopen/blob/main/PVM.gif)  
+
+</td>
+</tr>
+</table>
+</div>
+
 # CANopen报文记录&使用心得
 
 25kg协作机械臂，一体化电机，假设电机**id = 6**；
