@@ -1,6 +1,8 @@
 # one_motor_canopen——上传作者：胡翰泽
 通过canopen报文通讯一代驱动板，并驱动关节电机
 
+**系统环境** ：Ubuntu20.04 + Ros1-noetic
+
 # CANopen报文记录&使用心得
 
 25kg协作机械臂，一体化电机，假设电机**id = 6**；
