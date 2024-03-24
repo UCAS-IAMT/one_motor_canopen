@@ -1,4 +1,4 @@
-# one_motor_canopen——作者：胡翰泽
+# one_motor_canopen
 通过canopen报文通讯一代驱动板，并驱动关节电机
 
 **系统环境** ：Ubuntu20.04 + Ros1-noetic
